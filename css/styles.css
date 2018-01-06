@@ -1,0 +1,130 @@
+body{
+  background-image: url(../images/background-white.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.header-back{
+  /*background-image: url(../images/header-background.jpg);*/
+  background-repeat: no-repeat;
+  width: auto;
+  margin-right: 0px;
+}
+
+.header{
+  font-size: 45px;
+  padding: 10px;
+}
+
+
+#header-links{
+  font-size: 20px;
+  padding-top: 100px;
+  font-weight: bold;
+}
+
+#small-text{
+  font-size: 20px;
+  position: relative;
+  left: 150px;
+  bottom: 18px;
+  padding: 10px;
+}
+
+.front-page{
+  padding-top: 20px;
+  font-size: 100px;
+  position: relative;
+  right: 100px;
+}
+
+.front-words{
+  font-size: 45px;
+  padding: 50px;
+}
+
+.front-text{
+  font-size: 30px;
+  position: relative;
+  left: 400px;
+  font-weight: bold;
+}
+
+#intro-background{
+  /*background-color: #5499C7;*/
+  background-image: url(../images/background-blue.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.resize{
+  height: 50%;
+  width: 50%;
+  float: right;
+  position: relative;
+  right: 600px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+ul, ol{
+  list-style-position: inside;
+  padding-left: 0px;
+}
+
+.header-projects{
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.text-projects{
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  margin-bottom: 70px;
+}
+
+.row{
+  margin: 0px;
+  width: 100%;
+}
+.images-projects{
+  width: 350px;
+  height: 350px;
+  border: 4px solid #2874A6;
+  padding: 8px;
+  margin-left: 140px;
+}
+.col-md-6 {
+  padding: 0px;
+  height: 100%;
+}
+
+.col-md-3 {
+  padding: 0px;
+  height: 100%;
+}
+
+.image-text-projects{
+  text-align: center;
+  padding-top: 5px;
+  font-weight: bold;
+}
+
+#info{
+  padding-top: 100px;
+}
+
+.container{
+  width: 1000;
+}
+
+#panel-text{
+  text-align: center;
+}
+
+.center{
+  width:200px;
+  margin:0 auto;
+  text-align:left;
+}
